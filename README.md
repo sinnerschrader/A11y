@@ -1,2 +1,2 @@
-# A11y
-best practice A11y component collection
+# a11y
+best practice a11y component collection
