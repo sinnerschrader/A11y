@@ -60,3 +60,6 @@ typings/
 # Generated lib
 
 lib
+
+# everything else #
+.DS_Store
